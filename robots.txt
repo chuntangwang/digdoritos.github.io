@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://digdoritos.github.io/sitemap.xml 
